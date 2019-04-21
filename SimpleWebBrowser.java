@@ -27,6 +27,10 @@ public class SimpleWebBrowser extends JPanel {
 
 
 
+   ///
+   //
+
+
 
    /**
     * The pane in which documents are displayed.
