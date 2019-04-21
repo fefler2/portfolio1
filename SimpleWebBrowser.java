@@ -23,8 +23,10 @@ public class SimpleWebBrowser extends JPanel {
       window.setVisible(true);
    }
    
-   
-  
+
+
+
+
    
    /**
     * The pane in which documents are displayed.
